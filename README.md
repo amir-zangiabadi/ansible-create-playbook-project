@@ -1,5 +1,11 @@
 # Ansible Project Structure Setup Playbook
 
+[![Ansible](https://img.shields.io/badge/Ansible-✓-lightgrey.svg)](https://docs.ansible.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Docs](https://img.shields.io/badge/docs-passing-brightgreen.svg)](https://docs.ansible.com/)
+[![GitHub issues](https://img.shields.io/github/issues/amir-zangiabadi/ansible-create-playbook-project.svg)](https://github.com/amir-zangiabadi/ansible-create-playbook-project/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/amir-zangiabadi/ansible-create-playbook-project.svg)](https://github.com/amir-zangiabadi/ansible-create-playbook-project/commits/main)
+
 ## Overview
 
 This playbook automates the creation of a standardized Ansible project structure on your local machine. It prompts you for a project name—complete with input validation and a default value—and then builds an organized directory layout tailored for efficient Ansible project management. The playbook sets up inventory files for multiple environments and creates a fully scaffolded role directory complete with starter `main.yml` files.
