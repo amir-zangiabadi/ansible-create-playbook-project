@@ -43,7 +43,7 @@ This playbook automates the creation of a standardized Ansible project structure
 
 ## Run the Playbook: Execute the playbook with the following command:
  ```bash
-ansible-playbook your_playbook_name.yml
+ansible-playbook ansible-create-playbook-project.yml
 ```
 
 **Replace (`your_playbook_name.yml`) with the actual filename of your playbook.**
