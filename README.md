@@ -30,8 +30,8 @@ This playbook automates the creation of a standardized Ansible project structure
 
 1. **Clone or Download the Repository (if applicable)**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/amir-zangiabadi/ansible-create-playbook-project.git
+   cd ansible-create-playbook-project
     ```
 
 
