@@ -46,7 +46,7 @@ This playbook automates the creation of a standardized Ansible project structure
 ansible-playbook ansible-create-playbook-project.yml
 ```
 
-**Replace (`your_playbook_name.yml`) with the actual filename of your playbook.**
+**Replace (`ansible-create-playbook-project.yml`) with the actual filename of your playbook.**
 
 Follow the Prompts: Enter your project name when prompted, and the playbook will create your project structure accordingly.
 
